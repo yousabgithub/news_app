@@ -6,7 +6,8 @@ It is an application to follow the news, moment by moment, in more than one city
 and for each city the news is displayed in its own language,
 The application is distinguished in that it allows the user to display his own style between list view or grid view,
 and all his settings are saved.\
--support Arabic,English,GermanوFrench languages\
+-support Arabic,English,German,French languages\
+-support some animation\
 -support Dark, Light mode\
 -check Internet connection\
 -get various News for different Countries including Sports, Science, General and so on\
