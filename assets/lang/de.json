@@ -1,0 +1,18 @@
+{
+
+  "title_appBar" : "Deutschland jetzt",
+  "general" : "Allgemein",
+  "business" : "Geschäft",
+  "sports" : "Sport",
+  "science" : "die Wissenschaften",
+  "health" : "die Gesundheit",
+  "country" : "Staat",
+  "egypt": "Egypt",
+  "united_states": "United states",
+  "germany": "Germany",
+  "france": "France",
+  "unknown": "Unbekannt",
+
+  "listView": "Listenansicht",
+  "gridView": "Rasteransicht"
+}

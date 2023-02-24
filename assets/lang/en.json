@@ -1,0 +1,16 @@
+{
+  "title_appBar" : "United States Now",
+  "general" : "General",
+  "business" : "Business",
+  "sports" : "Sports",
+  "science" : "Science",
+  "health" : "Health",
+  "country" : "Country",
+  "egypt": "Egypt",
+  "united_states": "United states",
+  "germany": "Germany",
+  "france": "France",
+  "unknown": "Unknown",
+  "listView": "List View",
+  "gridView": "Grid View"
+}

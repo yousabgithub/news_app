@@ -1,0 +1,16 @@
+{
+  "title_appBar" : "La France maintenant",
+  "general" : "Général",
+  "business" : "Entreprise",
+  "sports" : "Des sports",
+  "science" : "Les sciences",
+  "health" : "La santé",
+  "country" : "Nation",
+  "egypt": "Egypt",
+  "united_states": "United states",
+  "germany": "Germany",
+  "france": "France",
+  "unknown": "Inconnu",
+  "listView": "vue liste",
+  "gridView": "vue grille"
+}
